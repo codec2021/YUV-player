@@ -6,3 +6,5 @@ YUV player
 
 ##工具是在下面这个项目的基础上修改，为此特别感谢原作者。
 https://github.com/fanyingming/YUVPlayer
+
+联系我：关注公众号“手撕编解码”
